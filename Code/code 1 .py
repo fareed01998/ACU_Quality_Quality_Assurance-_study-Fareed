@@ -11,6 +11,3 @@ print('Cs-Ahram Candian University')
 print('Acu')
 
 print('My Age : 24')
-
-
-print('Revert')
